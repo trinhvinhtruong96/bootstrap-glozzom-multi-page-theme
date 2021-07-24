@@ -12,3 +12,9 @@
 .carousel-item {
     max-height: 450px;
 }
+
+#home-heading {
+    background: linear-gradient(0, rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)) , url('../img/lights.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
