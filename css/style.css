@@ -18,3 +18,13 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+#video-play {
+    background: linear-gradient(0, rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)) , url('../img/media.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#video-play a {
+    color: #fff;
+}
