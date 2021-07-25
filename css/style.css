@@ -28,3 +28,21 @@
 #video-play a {
     color: #fff;
 }
+
+#main-footer {
+    background: #000;
+    color: #fff;
+}
+
+/* ABOUT PAGE */
+
+#page-header {
+    background: linear-gradient(0, rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('../img/image1.jpg');
+    background-attachment: fixed;
+    background-position: top;
+    border-bottom: 1px #eee solid;
+}
+
+#about .about-image {
+    margin-top: -50px;
+}
