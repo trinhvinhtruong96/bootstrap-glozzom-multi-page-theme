@@ -57,3 +57,11 @@
 #faq .card {
     border:#444
 }
+
+@media (min-width: 576px) {
+.card-columns {
+    column-count: 3;
+    column-gap: 1.25rem;
+    orphans: 1;
+    widows: 1;
+}
