@@ -44,3 +44,16 @@
 #about .about-image {
     margin-top: -50px;
 }
+
+#faq .card-body, #faq .card-header {
+    background: #333;
+}
+
+#faq a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#faq .card {
+    border:#444
+}
